@@ -15,6 +15,7 @@ export default [
       semi: ['error', 'always'],
       quotes: ['error', 'single'],
       indent: ['error', 2],
+      '@typescript-eslint/no-empty-object-type': 'off'
     },
   },
 ];
